@@ -1,0 +1,6 @@
+{
+  "greeting": "Hello from settings in stage!",
+  "db_name": "example",
+  "db_user": "master",
+  "db_password": "kmscrypt::AQICAHgo8deyig0Bt6axvaVmdkxB7wTiGvyvip/xgioVgx8iVgEdYGeBdHzEnteuVzvk9yn2AAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMA+dRRlkbfMdbEZ+PAgEQgDs66wa7CtEK7FBGFyCxzNKtvLlce77WRzvdXKMCJQzsfSyZlT3+2HxRRlLYk0AWOhi5nkuCZRL59nzDSw=="
+}

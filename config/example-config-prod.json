@@ -1,0 +1,6 @@
+{
+  "greeting": "Hello from settings in prod!",
+  "db_name": "example",
+  "db_user": "master",
+  "db_password": "kmscrypt::AQICAHhjwzGLUGj0lZwjYamNvMTJsC2iQtPrvDtDpqw+NhS0KgFxvgk9OfjoqFnrphSjiHS+AAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMAinLxVlUOXcSYLjzAgEQgDsKcA76E8NCok7vsDEdVIjoz+qwOnJcRejjGmrUDVRpolGNDgkRRRV5/5WDO7vb+zKnpvBQFVYzW3/XTw=="
+}
