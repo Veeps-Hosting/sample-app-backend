@@ -1,0 +1,2 @@
+INSERT INTO EXAMPLE
+VALUES (100, 'Gruntwork')

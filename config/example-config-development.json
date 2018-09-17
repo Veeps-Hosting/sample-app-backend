@@ -1,0 +1,6 @@
+{
+  "greeting": "Hello from settings in dev!",
+  "db_name": "example",
+  "db_user": "master",
+  "db_password": "password"
+}
